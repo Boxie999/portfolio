@@ -8,5 +8,7 @@ I created the nav bar and the footer individually, but the two main sections of 
 - In the "Work" section, the image of the first application is larger in size. I achieved this with grid-template-areas.
 - When the page is resized or wieved on various screens and devices, then the layout is responsive and adapts to my viewport. I did this with media queries.
 
+Link to the deployed application: 
+https://boxie999.github.io/portfolio/
 Screenshot of the web application:
 ![Screenshot 2022-12-06 at 16 58 24](https://user-images.githubusercontent.com/118014637/205976763-d5deaf76-1f64-45bf-a774-a8a76862d9e8.jpg)
